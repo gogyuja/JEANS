@@ -40,9 +40,6 @@
                         <hr>
                         </hr>
                     </div>
-                    <div class="main_noIdea">
-                        <a href="https://www.naver.com">계정을 잊어버리셨나요?</a>
-                    </div>
                     <div style="height: 40px;">
 
                     </div>

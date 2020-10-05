@@ -161,7 +161,6 @@ function lookWrite() {
                 contentType: false,
                 success: function (result, textStatus, jqxHR) {
                     if (jqxHR.status == 201) {
-                        alert(JSON.stringify(formData));
                         swal('', '게시글 등록을 하였습니다', 'success');
                         pond = 0;
                         //등록 성공하면 내가등록한 게시글화면으로 이동

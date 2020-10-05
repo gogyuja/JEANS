@@ -40,7 +40,7 @@ $('#nick').blur(function () {
         $('#nick_check').text('');//값이 true라면 경고문을 지운다.
     } else {
         $('#nick_check').css('margin-bottom', '-4%');
-        $('#nick_check').text('4~8자리 영어소분자,숫자,한글조합만 가능합니다.'); //정규식에 맞지 않는 다면 빨간색 경고문이뜬다.
+        $('#nick_check').text('4~8자리 영어소문자,숫자,한글조합만 가능합니다.'); //정규식에 맞지 않는 다면 빨간색 경고문이뜬다.
         $('#nick_check').css('color', 'red');
     }
 });
@@ -285,8 +285,8 @@ function joinUser() {
         success: function () {
             location.href = "/loginUser";
         },
-        error: function (request, status, error) {
-            alert("code :" + request.status + "\n" + "message : " + request.responseText + "\n" + "error : " + error);
+        error: function (result) {
+            swal(result.responseText,'',"error");
         }
     });
 

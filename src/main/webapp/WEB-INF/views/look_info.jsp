@@ -70,7 +70,7 @@
                     <img src="static/images/heart.png" alt="heart_image" class="heart_img"
                         onclick="likey(${view.look_num},'${sessionScope.userid}')" />
                     <div class="like_number">
-                        10.5K
+                        ${view.good}
                     </div>
 
                 </div>

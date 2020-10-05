@@ -230,6 +230,7 @@ public class LookController {
         } else {
             preferenceDao.insertPrefer(num, id);
             pretreatmentService.countUp(num, id);
+            boardDao.likeUpdate(num);
             return new ResponseEntity("좋아요!", HttpStatus.OK);
         }
     }

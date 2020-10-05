@@ -88,6 +88,9 @@ public class UserController {
     @Autowired
     HttpSession httpSession;
 
+    @Autowired
+    IUserDao userDao;
+
     @RequestMapping("/joinUser")
     public String joinUser() {
         return "joinUser";
@@ -110,7 +113,9 @@ public class UserController {
     //REST 형식의 회원가입
     @ResponseBody
     @PostMapping(value = "/user")
-    public ResponseEntity<Void> join(@Valid @RequestPart("UserDto") UserDto user, @RequestPart(value = "file", required = false) MultipartFile picture, BindingResult result) throws Exception {
+    public ResponseEntity<String> join(@Valid @RequestPart("UserDto") UserDto user, @RequestPart(value = "file", required = false) MultipartFile picture, BindingResult result) throws Exception {
+
+
         if (picture == null) {
             user.setPicture(defaultSthumbnail);
         } else {
@@ -122,6 +127,12 @@ public class UserController {
         if (result.getErrorCount() > 0) {
             //Validation 검사 결과 에러가 있다.
             return new ResponseEntity<>(HttpStatus.BAD_REQUEST);
+        }
+
+        if(userDao.checkUserid(user.getUserid())!=null){
+            return new ResponseEntity<>("이미 사용중인 아이디입니다",HttpStatus.BAD_REQUEST);
+        }else if(userDao.checkNickname(user.getNickname())!=null){
+            return new ResponseEntity<>("이미 사용중인 닉네임입니다.",HttpStatus.BAD_REQUEST);
         }
 
         //회원가입 이벤트

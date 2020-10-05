@@ -15,6 +15,12 @@
     <select id="getPicture" resultType="String">
         select picture from user where userid=(#{userid});
     </select>
+    <select id="checkUserid" resultType="String">
+        select userid from user where userid=(#{userid});
+    </select>
+    <select id="checkNickname" resultType="String">
+        select nickname from user where nickname=(#{nickname});
+    </select>
     <update id="setPicture">
         update user set picture = (#{picture}) where userid=(#{userid});
     </update>

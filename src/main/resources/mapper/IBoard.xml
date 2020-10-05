@@ -8,7 +8,7 @@
         insert into look
         values
         (
-        #{look_num},#{title},#{like},#{season},#{look_privacy},#{fk_userid_user_userid}
+        #{look_num},#{title},#{good},#{season},#{look_privacy},#{fk_userid_user_userid}
         ,#{memo},#{look_date},#{count},#{comment_count},#{nickname}
         )
 
@@ -73,6 +73,10 @@
 
     <update id="countUpdate">
         update look set count = count + 1 where look_num = #{look_num}
+    </update>
+
+    <update id="likeUpdate">
+        update look set good = good + 1 where look_num = #{num}
     </update>
 
     <update id="update">

@@ -42,7 +42,6 @@ function changePassword() {
 
     var passwordDto = JSON.stringify(ps)
     if (password != checkPassword) {
-        alert("두 비밀번호가 다릅니다");
         swal("", "두 비밀번호가 다릅니다", "error");
         return;
     }
@@ -50,7 +49,6 @@ function changePassword() {
     if (pwreg.test(password)) {
 
     } else {
-        alert("8~12자리 !@#$%^&*()? 중 하나이상이 들어가야합니다.");
         swal("에러", "8~12자리 !@#$%^&*()? 중 하나이상이 들어가야합니다.", "error");
         return;
     }
@@ -62,7 +60,6 @@ function changePassword() {
         data: passwordDto,
         dataType: 'text',
         success: function (result) {
-            alert("성공")
         },
         error: function (xhr, status, error) {
             alert("code : " + xhr.status + "\n" + "message" + xhr.responseText + "\n" + error);
@@ -81,7 +78,6 @@ function changeprofileThumbnail() {
         type: "post",
         data: formData,
         success: function () {
-            alert("성공")
         },
         error: function (xhr, status, error) {
             alert("code : " + xhr.status + "\n" + "message" + xhr.responseText + "\n" + error);
@@ -108,7 +104,6 @@ function changeUserinformation() {
         privacy: privacy
     };
     let UserDto=JSON.stringify(User);
-    alert(UserDto);
     $.ajax({
         url:"/userinformation/information",
         type:"post",
@@ -116,7 +111,6 @@ function changeUserinformation() {
         dataType: 'text',
         contentType: 'application/json; charset=utf-8',
         success: function(data){
-            alert("성공");
         },
         error: function (xhr, status, error) {
             alert("code : " + xhr.status + "\n" + "message" + xhr.responseText + "\n" + error);

@@ -51,7 +51,7 @@ public class BoardService implements IBoardService {
         boardDto.setLook_date(look_date); //작성 시간 넣기
         boardDto.setFk_userid_user_userid((String) httpSession.getAttribute("userid"));
         boardDto.setNickname((String) httpSession.getAttribute("usernickname"));
-        boardDto.setLike(1); //좋아요 값넣기 수정해야함
+        boardDto.setGood(1); //좋아요 값넣기 수정해야함
         boardDto.setComment_count(2);//댓글수 수정해야함
 
 

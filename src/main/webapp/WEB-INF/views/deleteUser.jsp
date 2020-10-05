@@ -47,12 +47,7 @@
                                         <li>회원탈퇴를 하시려면 비밀번호를 재입력 하셔야 합니다.</li>
                                         <!-- <li>개인정보 완전삭제를 원하시는 경우 하단 체크박스에 체크를 한 뒤 탈퇴하기 버튼을 눌러주세요.</li> -->
                                     </ul>
-                                    <!-- <div class="del_check mt_20">
-                                        <label for="emplrInfoDltYn">
-                                            <input id="emplrInfoDltYn" name="emplrInfoDltYn" type="checkbox" value="Y">
-                                            회원탈퇴에 동의합니다.
-                                        </label>
-                                    </div> -->
+
                                 </div>
                             </div>
                         </div>

@@ -21,6 +21,8 @@ public interface IBoardDao {
     //게시글 작성
     public int insert(BoardDto boardDto);
 
+
+
     public int insertPicture(String boardnum,String uuidname);
 
     //게시글 상세보기
@@ -33,6 +35,8 @@ public interface IBoardDao {
 
     //게시글 조회수 증가
     public void countUpdate(@Param("look_num") int look_num);
+
+    public void likeUpdate(@Param("num")int num);
 
     //게시글 수정
     public int update(BoardDto boardDto);

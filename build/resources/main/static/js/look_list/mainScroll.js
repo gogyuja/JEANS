@@ -77,7 +77,7 @@ function start() {
                 html += ' </li>';
                 html += '<li class=\"look_footer_li\">';
                 html += '<div class = \"like_number\">';
-                html += '<span>10.5K</span>';
+                html += '<span>' + result[i].good + '</span>';
                 html += ' </div>';
                 html += ' </li>';
                 html += '<li class=\"look_footer_li\" style=\"width: 25px;\"></li>';

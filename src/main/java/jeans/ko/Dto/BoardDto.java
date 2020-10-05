@@ -19,7 +19,7 @@ public class BoardDto {
     private int look_num; //오토 인크리먼트
     @NotBlank(message = "제목을 입력하세요")
     private String title;
-    private int like;
+    private int good;
     @NotBlank(message = " 계절을 선택하세요")
     private String season;
     @Min(value = 1, message = " 공개 비공개를 선택하세요")

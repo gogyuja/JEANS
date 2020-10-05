@@ -1,459 +1,262 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-<<<<<<< HEAD
-  <component name="ChangeListManager">
-    <list default="true" id="550e97a6-459b-4a75-975e-ab9fe1629485" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
-=======
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-<<<<<<< HEAD
-    <list default="true" id="93533322-5534-419b-a9f4-82a3490d9d91" name="Default Changelist" comment="">
-<<<<<<< HEAD
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-=======
+    <list default="true" id="d8854b8a-0640-46bd-b36b-5d32bf8958bd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Gradle___Jeans___ko_0_0_1_SNAPSHOT_war3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Gradle___Jeans___ko_0_0_1_SNAPSHOT_war__exploded_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__ch_qos_logback_logback_classic_1_2_32.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__ch_qos_logback_logback_core_1_2_32.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_classmate_1_4_02.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_annotations_2_9_102.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_core_2_9_102.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_databind_2_9_10_42.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_102.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_102.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_102.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_jayway_jsonpath_json_path_2_4_02.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vaadin_external_google_android_json_0_0_20131108_vaadin12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_zaxxer_HikariCP_3_2_02.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_io_commons_io_2_62.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_annotation_javax_annotation_api_1_3_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_servlet_jstl_1_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_validation_validation_api_2_0_1_Final2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_122.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__mysql_mysql_connector_java_8_0_202.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_bytebuddy_byte_buddy_1_9_162.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_bytebuddy_byte_buddy_agent_1_9_162.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_minidev_accessors_smart_1_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_minidev_json_smart_2_32.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_logging_log4j_log4j_api_2_11_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_logging_log4j_log4j_to_slf4j_2_11_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_tomcat_embed_tomcat_embed_core_9_0_362.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_tomcat_embed_tomcat_embed_el_9_0_362.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_tomcat_embed_tomcat_embed_jasper_9_0_362.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_362.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_tomcat_tomcat_annotations_api_9_0_362.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_assertj_assertj_core_3_11_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jdt_ecj_3_18_02.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_32.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_32.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hibernate_validator_hibernate_validator_6_0_20_Final2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_imgscalr_imgscalr_lib_4_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jboss_logging_jboss_logging_3_3_3_Final2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_mockito_mockito_core_2_23_42.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_mybatis_mybatis_3_5_42.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_mybatis_mybatis_spring_2_0_42.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_2_1_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_mybatis_spring_boot_mybatis_spring_boot_starter_2_1_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_objenesis_objenesis_2_62.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_ow2_asm_asm_5_0_42.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_projectlombok_lombok_1_18_122.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_skyscreamer_jsonassert_1_5_02.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_jul_to_slf4j_1_7_302.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_7_302.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_2_1_15_BUILD_SNAPSHOT2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_autoconfigure_2_1_15_BUILD_SNAPSHOT2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_devtools_2_1_15_BUILD_SNAPSHOT2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_2_1_15_BUILD_SNAPSHOT2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_jdbc_2_1_15_BUILD_SNAPSHOT2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_json_2_1_15_BUILD_SNAPSHOT2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_logging_2_1_15_BUILD_SNAPSHOT2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_test_2_1_15_BUILD_SNAPSHOT2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_tomcat_2_1_15_BUILD_SNAPSHOT2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_web_2_1_15_BUILD_SNAPSHOT2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_test_2_1_15_BUILD_SNAPSHOT2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_test_autoconfigure_2_1_15_BUILD_SNAPSHOT2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_aop_5_1_16_RELEASE2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_beans_5_1_16_RELEASE2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_context_5_1_16_RELEASE2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_core_5_1_16_RELEASE2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_expression_5_1_16_RELEASE2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_jcl_5_1_16_RELEASE2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_jdbc_5_1_16_RELEASE2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_test_5_1_16_RELEASE2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_tx_5_1_16_RELEASE2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_web_5_1_16_RELEASE2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_webmvc_5_1_16_RELEASE2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_xmlunit_xmlunit_core_2_6_42.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_yaml_snakeyaml_1_232.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/ko.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/ko.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Gradle___Jeans___ko_0_0_1_SNAPSHOT_war.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/Gradle___Jeans___ko_0_0_1_SNAPSHOT_war.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Gradle___Jeans___ko_0_0_1_SNAPSHOT_war__exploded_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/Gradle___Jeans___ko_0_0_1_SNAPSHOT_war__exploded_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Gradle___Jeans___ko_0_0_1_SNAPSHOT_war__exploded_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/Gradle___Jeans___ko_0_0_1_SNAPSHOT_war__exploded_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__ch_qos_logback_logback_classic_1_2_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_annotations_2_9_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_annotations_2_9_10.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_core_2_9_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_core_2_9_10.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_10.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_annotation_javax_annotation_api_1_3_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_servlet_jstl_1_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_servlet_jstl_1_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_mybatis_spring_boot_mybatis_spring_boot_starter_2_1_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_mybatis_spring_boot_mybatis_spring_boot_starter_2_1_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_7_30.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_7_30.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_devtools_2_1_15_BUILD_SNAPSHOT.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_devtools_2_1_15_BUILD_SNAPSHOT.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_2_1_15_BUILD_SNAPSHOT.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_2_1_15_BUILD_SNAPSHOT.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_logging_2_1_15_BUILD_SNAPSHOT.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_logging_2_1_15_BUILD_SNAPSHOT.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_test_2_1_15_BUILD_SNAPSHOT.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_test_2_1_15_BUILD_SNAPSHOT.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_test_2_1_15_BUILD_SNAPSHOT.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_test_2_1_15_BUILD_SNAPSHOT.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/jeans/ko/Controller/LookController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/jeans/ko/Controller/LookController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/jeans/ko/Controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/jeans/ko/Controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/jeans/ko/Dao/IBoardDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/jeans/ko/Dao/IBoardDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/jeans/ko/Service/BoardService.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/jeans/ko/Service/BoardService.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/resources/main/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/mapper/IBoard.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/mapper/IBoard.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/static/js/joinUser/joinUser.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/static/js/joinUser/joinUser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/static/js/look_info/look_info.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/static/js/look_info/look_info.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/resources/main/static/js/look_list/mainScroll.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/static/js/look_list/mainScroll.js" afterDir="false" />
-=======
-    <list default="true" id="f784feb7-0fb1-4498-bec4-1ad0a9c5f27f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
->>>>>>> 09713b71a74c41c062429058ccaafc02b99352cc
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-      <change beforePath="$PROJECT_DIR$/src/main/java/jeans/ko/Controller/MypageuserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jeans/ko/Controller/MypageuserController.java" afterDir="false" />
->>>>>>> ecc93815ef769c59ee6ffbf5ae96dc1ee0853aab
-<<<<<<< HEAD
->>>>>>> gt
-=======
-=======
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/jeans/ko/Controller/ChangeuserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/jeans/ko/Controller/ChangeuserController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jeans/ko/Controller/ChangeuserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jeans/ko/Controller/ChangeuserController.java" afterDir="false" />
-<<<<<<< HEAD
-=======
+      <change beforePath="$PROJECT_DIR$/build/resources/main/static/js/look_list/preferenceScroll.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/static/js/look_list/preferenceScroll.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/static/js/look_list/searchScroll.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/static/js/look_list/searchScroll.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/static/js/look_write/look_write.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/static/js/look_write/look_write.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jeans/ko/Controller/LookController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jeans/ko/Controller/LookController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jeans/ko/Controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jeans/ko/Controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jeans/ko/Dao/IBoardDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jeans/ko/Dao/IBoardDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jeans/ko/Dao/IUserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jeans/ko/Dao/IUserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jeans/ko/Dto/BoardDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jeans/ko/Dto/BoardDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jeans/ko/Service/BoardService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jeans/ko/Service/BoardService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/IBoard.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/IBoard.xml" afterDir="false" />
->>>>>>> 630932e65453b0b9213c8182c46a193456bae15d
->>>>>>> gt
->>>>>>> 23384390e52d45a00550c388a4276408305a1c9d
->>>>>>> 09713b71a74c41c062429058ccaafc02b99352cc
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/userMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/userMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/js/changeUser/changeUser.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/js/changeUser/changeUser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/js/joinUser/joinUser.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/js/joinUser/joinUser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/js/look_info/look_info.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/js/look_info/look_info.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/js/look_list/mainScroll.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/js/look_list/mainScroll.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/js/look_list/preferenceScroll.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/js/look_list/preferenceScroll.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/js/look_list/searchScroll.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/js/look_list/searchScroll.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/js/look_write/look_write.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/js/look_write/look_write.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/deleteUser.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/deleteUser.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/loginUser.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/loginUser.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/look_info.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/look_info.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-<<<<<<< HEAD
-  <component name="ExternalProjectsData">
-    <projectState path="$PROJECT_DIR$">
-      <ProjectState />
-    </projectState>
-  </component>
-=======
->>>>>>> 23384390e52d45a00550c388a4276408305a1c9d
-  <component name="ExternalProjectsManager">
-    <system id="GRADLE">
-      <state>
-        <projects_view>
-          <tree_state>
-            <expand>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="ko" type="f1a62948:ProjectNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="ko" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-              </path>
-            </expand>
-            <select />
-          </tree_state>
-        </projects_view>
-      </state>
-    </system>
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-<<<<<<< HEAD
-  <component name="ProjectId" id="1i9NEzuJ3ASaVZtA5ei1vRqvYBC" />
-=======
-<<<<<<< HEAD
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="PropertiesComponent">
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-  </component>
-  <component name="RunManager">
-    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-=======
-  <component name="ProjectId" id="1hwssoB6t3lUpr9KwaGEcLdxjIg" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
->>>>>>> 23384390e52d45a00550c388a4276408305a1c9d
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-<<<<<<< HEAD
-    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="show.unlinked.gradle.project.popup" value="true" />
-  </component>
-  <component name="RunManager">
-    <configuration name="KoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-=======
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-<<<<<<< HEAD
-    <property name="nodejs.jest.jest_package" value="" />
-    <property name="nodejs.mocha.mocha_node_package_dir" value="" />
-    <property name="nodejs.protractor.protractor_package" value="" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="SDKs" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\gogyu\IdeaProjects\JEANS\src\main\resources\static\js\look_list" />
-    </key>
-=======
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
->>>>>>> 09713b71a74c41c062429058ccaafc02b99352cc
   </component>
   <component name="RunManager">
-    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
->>>>>>> gt
+    <configuration name="KoApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="jeans.ko.KoApplication" />
->>>>>>> 23384390e52d45a00550c388a4276408305a1c9d
       <module name="ko.main" />
-<<<<<<< HEAD
-=======
-      <option name="SPRING_BOOT_MAIN_CLASS" value="jeans.ko.KoApplication" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateResources" />
-      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateResources" />
->>>>>>> 630932e65453b0b9213c8182c46a193456bae15d
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jeans.ko.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-<<<<<<< HEAD
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.KoApplication" />
+      </list>
+    </recent_temporary>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
     <configuration />
-=======
->>>>>>> 23384390e52d45a00550c388a4276408305a1c9d
   </component>
-<<<<<<< HEAD
-=======
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
->>>>>>> gt
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-<<<<<<< HEAD
-      <changelist id="550e97a6-459b-4a75-975e-ab9fe1629485" name="Default Changelist" comment="" />
-      <created>1601315739514</created>
+      <changelist id="5a7ab030-b567-4923-b935-8cb6704c1406" name="Default Changelist" comment="" />
+      <created>1601877674348</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1601315739514</updated>
-      <workItem from="1601315747766" duration="369000" />
-      <workItem from="1601316658629" duration="85000" />
-      <workItem from="1601317590438" duration="352000" />
-      <workItem from="1601318044773" duration="384000" />
-      <workItem from="1601318450331" duration="200000" />
-      <workItem from="1601318673203" duration="786000" />
-      <workItem from="1601319773739" duration="1205000" />
-=======
-      <changelist id="f784feb7-0fb1-4498-bec4-1ad0a9c5f27f" name="Default Changelist" comment="" />
-      <created>1600933702032</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-<<<<<<< HEAD
-      <updated>1600933702032</updated>
-      <workItem from="1600933703826" duration="1225000" />
-      <workItem from="1600996595415" duration="828000" />
-=======
-      <updated>1600859647487</updated>
-      <workItem from="1600859651667" duration="1748000" />
-      <workItem from="1600909000248" duration="3457000" />
-      <workItem from="1600916827815" duration="810000" />
-      <workItem from="1600917655445" duration="9703000" />
-      <workItem from="1600996582582" duration="5455000" />
-<<<<<<< HEAD
-      <workItem from="1601017801194" duration="1904000" />
->>>>>>> ecc93815ef769c59ee6ffbf5ae96dc1ee0853aab
-=======
-      <workItem from="1601017801194" duration="5700000" />
-      <workItem from="1601034041668" duration="120000" />
-<<<<<<< HEAD
-      <workItem from="1601252783312" duration="10436000" />
-      <workItem from="1601266514284" duration="2127000" />
-      <workItem from="1601807431766" duration="363000" />
-      <workItem from="1601807817306" duration="1423000" />
-      <workItem from="1601868717657" duration="121000" />
-=======
-      <workItem from="1601252783312" duration="9590000" />
->>>>>>> 630932e65453b0b9213c8182c46a193456bae15d
->>>>>>> 23384390e52d45a00550c388a4276408305a1c9d
->>>>>>> 09713b71a74c41c062429058ccaafc02b99352cc
+      <updated>1601877674348</updated>
+      <workItem from="1601877676813" duration="9590000" />
     </task>
     <servers />
   </component>
-<<<<<<< HEAD
-  <component name="WindowStateProjectService">
-    <state x="223" y="67" width="1089" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600592099548">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="223" y="67" width="1089" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1600592099548" />
-    <state x="498" y="214" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1600592094055">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="498" y="214" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1600592094055" />
-    <state width="1493" height="2" key="GridCell.Tab.0.bottom" timestamp="1600592111343">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="2" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600592111343" />
-    <state width="1493" height="2" key="GridCell.Tab.0.center" timestamp="1600592111343">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="2" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600592111343" />
-    <state width="1493" height="2" key="GridCell.Tab.0.left" timestamp="1600592111343">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="2" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600592111343" />
-    <state width="1493" height="2" key="GridCell.Tab.0.right" timestamp="1600592111343">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="2" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600592111343" />
-    <state width="1493" height="2" key="GridCell.Tab.1.bottom" timestamp="1600592111207">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="2" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600592111207" />
-    <state width="1493" height="2" key="GridCell.Tab.1.center" timestamp="1600592111207">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="2" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1600592111207" />
-    <state width="1493" height="2" key="GridCell.Tab.1.left" timestamp="1600592111207">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="2" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1600592111207" />
-    <state width="1493" height="2" key="GridCell.Tab.1.right" timestamp="1600592111207">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="2" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1600592111207" />
-=======
   <component name="TypeScriptGeneratedFilesManager">
-<<<<<<< HEAD
-    <option name="version" value="2" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="-1614" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601319424455">
-      <screen x="-1920" y="0" width="1920" height="1040" />
-=======
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="223" y="67" width="1089" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600929324286">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1865" height="268" key="GridCell.Tab.0.bottom" timestamp="1601889861270">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-<<<<<<< HEAD
-<<<<<<< HEAD
-    <state x="223" y="67" width="1089" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1600929324286" />
-    <state x="498" y="214" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1600929317965">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1493" height="109" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601889100412" />
+    <state width="1865" height="268" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601889861270" />
+    <state width="1865" height="268" key="GridCell.Tab.0.center" timestamp="1601889861269">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="498" y="214" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1600929317965" />
-    <state width="1493" height="234" key="GridCell.Tab.0.bottom" timestamp="1600943100564">
-      <screen x="0" y="0" width="1536" height="824" />
-=======
-    <state x="202" y="0" width="797" height="1040" key="#KoApplication/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1600916807041" />
-    <state x="414" y="44" width="1148" height="996" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601807680289">
+    <state width="1493" height="109" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601889100410" />
+    <state width="1865" height="268" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601889861269" />
+    <state width="1865" height="268" key="GridCell.Tab.0.left" timestamp="1601889861269">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="109" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601889100409" />
+    <state width="1865" height="268" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601889861269" />
+    <state width="1865" height="268" key="GridCell.Tab.0.right" timestamp="1601889861269">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="109" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601889100411" />
+    <state width="1865" height="268" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601889861269" />
+    <state width="1865" height="268" key="GridCell.Tab.1.bottom" timestamp="1601889861270">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="109" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601889099900" />
+    <state width="1865" height="268" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601889861270" />
+    <state width="1865" height="268" key="GridCell.Tab.1.center" timestamp="1601889861270">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="109" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1601889099899" />
+    <state width="1865" height="268" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601889861270" />
+    <state width="1865" height="268" key="GridCell.Tab.1.left" timestamp="1601889861270">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="109" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1601889099898" />
+    <state width="1865" height="268" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601889861270" />
+    <state width="1865" height="268" key="GridCell.Tab.1.right" timestamp="1601889861270">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="109" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1601889099900" />
+    <state width="1865" height="268" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601889861270" />
+    <state x="40" y="182" width="1782" height="677" key="find.popup" timestamp="1601890323886">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="414" y="44" width="1148" height="996" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1600917715326" />
-    <state x="414" y="44" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601807680289" />
-    <state x="627" y="266" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1600916889617">
-      <screen x="0" y="0" width="1920" height="1040" />
->>>>>>> 630932e65453b0b9213c8182c46a193456bae15d
-    </state>
-    <state width="1493" height="234" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600943100564" />
-    <state width="1493" height="234" key="GridCell.Tab.0.center" timestamp="1600943100564">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="234" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600943100564" />
-    <state width="1493" height="234" key="GridCell.Tab.0.left" timestamp="1600943100564">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="234" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600943100564" />
-    <state width="1493" height="234" key="GridCell.Tab.0.right" timestamp="1600943100564">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="234" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600943100564" />
-    <state width="1493" height="234" key="GridCell.Tab.1.bottom" timestamp="1600943100564">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="234" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600943100564" />
-    <state width="1493" height="234" key="GridCell.Tab.1.center" timestamp="1600943100564">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="234" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1600943100564" />
-    <state width="1493" height="234" key="GridCell.Tab.1.left" timestamp="1600943100564">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="234" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1600943100564" />
-    <state width="1493" height="234" key="GridCell.Tab.1.right" timestamp="1600943100564">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="234" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1600943100564" />
-    <state x="277" y="57" key="SettingsEditor" timestamp="1600933720179">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1600933720179" />
-=======
-    <state x="690" y="222" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1600916877499" />
-    <state width="1140" height="203" key="GridCell.Tab.0.bottom" timestamp="1601810120835">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1859" height="64" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1601033982867" />
-    <state width="1140" height="203" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601810120835" />
-    <state width="1140" height="203" key="GridCell.Tab.0.center" timestamp="1601810120835">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1859" height="64" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1601033982867" />
-    <state width="1140" height="203" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601810120835" />
-    <state width="1140" height="203" key="GridCell.Tab.0.left" timestamp="1601810120835">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1859" height="64" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1601033982867" />
-    <state width="1140" height="203" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601810120835" />
-    <state width="1140" height="203" key="GridCell.Tab.0.right" timestamp="1601810120835">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1859" height="64" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1601033982867" />
-    <state width="1140" height="203" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601810120835" />
-    <state width="1140" height="203" key="GridCell.Tab.1.bottom" timestamp="1601810120835">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1859" height="64" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1601033982868" />
-    <state width="1140" height="203" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601810120835" />
-    <state width="1140" height="203" key="GridCell.Tab.1.center" timestamp="1601810120835">
-      <screen x="0" y="0" width="1920" height="1040" />
->>>>>>> 23384390e52d45a00550c388a4276408305a1c9d
-    </state>
-<<<<<<< HEAD
-    <state width="1859" height="64" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1601033982868" />
-    <state width="1140" height="203" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601810120835" />
-    <state width="1140" height="203" key="GridCell.Tab.1.left" timestamp="1601810120835">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1859" height="64" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1601033982867" />
-    <state width="1140" height="203" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601810120835" />
-    <state width="1140" height="203" key="GridCell.Tab.1.right" timestamp="1601810120835">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1859" height="64" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1601033982868" />
-    <state width="1140" height="203" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601810120835" />
-    <state width="1865" height="333" key="GridCell.Tab.2.bottom" timestamp="1601002169871">
-      <screen x="0" y="0" width="1920" height="1040" />
-=======
-    <state x="-1614" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601319424455" />
-    <state x="-1288" y="153" key="FileChooserDialogImpl" timestamp="1601318706132">
-      <screen x="-1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="-1288" y="153" key="FileChooserDialogImpl/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601318706132" />
-    <state width="1464" height="175" key="GridCell.Tab.0.bottom" timestamp="1601320380167">
-      <screen x="-1920" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1464" height="175" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601320380167" />
-    <state width="1464" height="175" key="GridCell.Tab.0.center" timestamp="1601320380166">
-      <screen x="-1920" y="0" width="1920" height="1040" />
->>>>>>> 09713b71a74c41c062429058ccaafc02b99352cc
-    </state>
-    <state width="1464" height="175" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601320380166" />
-    <state width="1464" height="175" key="GridCell.Tab.0.left" timestamp="1601320380166">
-      <screen x="-1920" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1464" height="175" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601320380166" />
-    <state width="1464" height="175" key="GridCell.Tab.0.right" timestamp="1601320380167">
-      <screen x="-1920" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1464" height="175" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601320380167" />
-    <state width="1464" height="175" key="GridCell.Tab.1.bottom" timestamp="1601320380167">
-      <screen x="-1920" y="0" width="1920" height="1040" />
-    </state>
-<<<<<<< HEAD
-    <state width="1865" height="333" key="GridCell.Tab.2.right/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1601002169871" />
-    <state x="312" y="0" key="SettingsEditor" timestamp="1601807792712">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="312" y="0" key="SettingsEditor/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1600917683589" />
-    <state x="312" y="0" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601807792712" />
-    <state x="603" y="307" key="com.intellij.ide.util.TipDialog" timestamp="1601868722172">
-      <screen x="0" y="0" width="1920" height="1040" />
-=======
-    <state width="1464" height="175" key="GridCell.Tab.1.bottom/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601320380167" />
-    <state width="1464" height="175" key="GridCell.Tab.1.center" timestamp="1601320380167">
-      <screen x="-1920" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1464" height="175" key="GridCell.Tab.1.center/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601320380167" />
-    <state width="1464" height="175" key="GridCell.Tab.1.left" timestamp="1601320380167">
-      <screen x="-1920" y="0" width="1920" height="1040" />
-    </state>
-<<<<<<< HEAD
-    <state width="1464" height="175" key="GridCell.Tab.1.left/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601320380167" />
-    <state width="1464" height="175" key="GridCell.Tab.1.right" timestamp="1601320380167">
-      <screen x="-1920" y="0" width="1920" height="1040" />
->>>>>>> 09713b71a74c41c062429058ccaafc02b99352cc
-    </state>
-    <state width="1464" height="175" key="GridCell.Tab.1.right/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601320380167" />
-=======
-<<<<<<< HEAD
-    <state x="603" y="307" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1601017819197" />
->>>>>>> ecc93815ef769c59ee6ffbf5ae96dc1ee0853aab
-<<<<<<< HEAD
->>>>>>> gt
-=======
-=======
-    <state x="603" y="307" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1601034046648" />
-    <state x="603" y="307" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601868722172" />
-    <state x="642" y="86" key="refactoring.ChangeSignatureDialog" timestamp="1601255132553">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="642" y="86" key="refactoring.ChangeSignatureDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601255132553" />
->>>>>>> 630932e65453b0b9213c8182c46a193456bae15d
->>>>>>> gt
->>>>>>> 23384390e52d45a00550c388a4276408305a1c9d
+    <state x="32" y="144" width="1425" height="536" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1601888976155" />
+    <state x="40" y="182" width="1782" height="677" key="find.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601890323886" />
   </component>
 </project>

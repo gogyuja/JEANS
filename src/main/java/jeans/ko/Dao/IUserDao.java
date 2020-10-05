@@ -24,6 +24,12 @@ public interface IUserDao {
     //유저 닉네임
     public String getNickname(String userid);
 
+    //유저아이디를 입력받아 존재유무확인
+    public String checkUserid(String userid);
+
+    //유저닉네임을 받아 존재유무확인
+    public String checkNickname(String nickname);
+
     //유저 아이디로 프로필사진유무확인
     public String getPicture(String userid);
 

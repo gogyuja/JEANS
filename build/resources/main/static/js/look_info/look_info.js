@@ -193,10 +193,10 @@ function likey(num,id){
         url:"/likey/looknum/"+num+"/user/"+id,
         type:"post",
         success: function(result){
-            swal(result);
+            swal(result,"",'error');
         },
         error: function(error){
-            alert("error다"+error);
+            swal('로그인을 하세요',"",'error');
         }
     })
 }
