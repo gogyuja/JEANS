@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="Gradle : Jeans : ko-0.0.1-SNAPSHOT.war">
-    <output-path>$PROJECT_DIR$/build/libs</output-path>
-    <root id="archive" name="ko-0.0.1-SNAPSHOT.war">
-      <element id="artifact" artifact-name="Gradle : Jeans : ko-0.0.1-SNAPSHOT.war (exploded)" />
-    </root>
-  </artifact>
-</component>

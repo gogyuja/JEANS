@@ -1,5 +1,4 @@
-input,
-select {
+input {
   padding: 6px 12px;
   width: 100%;
   height: 100%;
@@ -11,7 +10,6 @@ select {
   resize: none;
   font-size: 14px;
 }
-
 
 button {
   width: 80%;
@@ -25,18 +23,13 @@ button {
   border-color: rgb(52, 152, 219);
 }
 
-form{
-  height: 100%;
-  width: 100%;
-}
-
 body {
   .webview {
     width: 70%;
-    @media screen and (min-width: 0px) and (max-width: 600px ) {
+    @media screen and (min-width: 0px) and (max-width: 600px) {
       width: 100%;
     }
-    @media screen and (min-width: 600px) and (max-width: 1200px ) {
+    @media screen and (min-width: 600px) and (max-width: 1200px) {
       width: 90%;
     }
     // display: flex;
@@ -48,7 +41,6 @@ body {
     // %, fr은 허용
     // width: 1200px;
     height: 1150px;
-
 
     .jeans_root {
       // order: 0;
@@ -81,6 +73,11 @@ body {
       padding: 2.5% 2.5% 2.5% 2.5%;
       box-sizing: border-box;
       // 패딩으로 늘어난 박스크기를 원래크기만큼 줄여줌
+
+      form {
+        height: 100%;
+        width: 100%;
+      }
 
       .changePW {
         background-color: white;
@@ -277,7 +274,6 @@ body {
             .changeOther_1_1_9 {
               grid-column: 9 / span 1;
               grid-row: 5 / 6;
-              
             }
             .changeOther_1_1_10 {
               grid-column: 10 / span 2;
@@ -350,36 +346,34 @@ body {
             padding: 4% 4% 4% 4%;
             box-sizing: border-box;
 
-            .changePict_1_1_1{
+            .changePict_1_1_1 {
               grid-column: 1 / 2;
               grid-row: 1 / 2;
               font-size: 1.1em;
               font-weight: bold;
               align-self: center;
             }
-            .changePict_1_1_2{
+            .changePict_1_1_2 {
               grid-column: 2 / -1;
               grid-row: 1 / -1;
-              background-color:  rgb(224, 224, 224);
+              background-color: rgb(224, 224, 224);
             }
-            .changePict_1_1_3{
+            .changePict_1_1_3 {
               grid-column: 1 / 2;
               grid-row: 2 / 3;
-              input{
+              input {
                 height: 80%;
               }
             }
-            .changePict_1_1_4{
+            .changePict_1_1_4 {
               grid-column: 1 / 2;
               grid-row: 3 / -1;
-              button{
+              button {
                 margin-left: 30%;
-                width:  40% ;
+                width: 40%;
                 height: 80%;
               }
             }
-      
-
           }
         }
       }
